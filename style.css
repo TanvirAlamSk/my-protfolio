@@ -1,0 +1,12 @@
+*{
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.welcome{
+   font-size:50px; 
+   width: 600;
+}
+
+h3 span{
+    font-size: 30px;
+}
